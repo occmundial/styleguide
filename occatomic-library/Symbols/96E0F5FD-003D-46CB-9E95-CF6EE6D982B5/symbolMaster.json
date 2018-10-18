@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2464,
+  "changeIdentifier": 2470,
   "clippingMaskMode": 0,
   "do_objectID": "96E0F5FD-003D-46CB-9E95-CF6EE6D982B5",
   "exportOptions": {
@@ -54,6 +54,10 @@
   "layers": [
     {
       "class": "text",
+      "id": "B0A18F37-7920-40B6-819E-A5C3D54A670D"
+    },
+    {
+      "class": "text",
       "id": "023609FE-5EA2-4426-86BB-D1334009156C"
     },
     {
@@ -75,10 +79,6 @@
     {
       "class": "symbolInstance",
       "id": "5105A43C-587F-4FA8-B70D-41562771E495"
-    },
-    {
-      "class": "bitmap",
-      "id": "0D469AF2-368E-4F65-B87F-4977D0BDE745"
     }
   ],
   "name": "1: Atoms / Form Elements / Text Field Icon / Active / No label",

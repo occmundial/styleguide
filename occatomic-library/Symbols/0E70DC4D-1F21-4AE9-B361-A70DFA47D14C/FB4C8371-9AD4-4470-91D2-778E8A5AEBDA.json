@@ -21,7 +21,7 @@
     "do_objectID": "FDF7FB1A-C0C5-4645-BCE4-A99F89B82480",
     "height": 32,
     "width": 32,
-    "x": 74,
+    "x": 50,
     "y": 8
   },
   "hasClippingMask": false,
@@ -35,7 +35,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Copia de Link",
   "nameIsFixed": false,

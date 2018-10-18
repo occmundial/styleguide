@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2782,
+  "changeIdentifier": 2865,
   "clippingMaskMode": 0,
   "do_objectID": "A7E0BF34-1E5C-42A7-A946-68DDD36F4631",
   "exportOptions": {
@@ -24,7 +24,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 108,
+    "width": 106,
     "x": 1118,
     "y": 138
   },
@@ -72,7 +72,7 @@
   "name": "1: Atoms / Buttons / 2 Secondary / Text Icon Left / Hover",
   "nameIsFixed": true,
   "originalObjectID": "A7E0BF34-1E5C-42A7-A946-68DDD36F4631",
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

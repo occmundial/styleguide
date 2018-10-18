@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2324,
+  "changeIdentifier": 2343,
   "clippingMaskMode": 0,
   "do_objectID": "FF4E5A04-C938-4EA6-A391-1B7A7354DB15",
   "exportOptions": {
@@ -53,6 +53,14 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "text",
+      "id": "78A845F8-901B-4A26-8807-2B803339FCE0"
+    },
+    {
+      "class": "text",
+      "id": "CF9ACAC9-CF89-4ABE-90C7-5B09D053B181"
+    },
+    {
       "class": "rectangle",
       "id": "34D36D5D-FD9E-46EF-80C2-A05D6BFB5B1A"
     },
@@ -63,10 +71,6 @@
     {
       "class": "text",
       "id": "65B6F666-2423-4567-B83F-92D0570346C6"
-    },
-    {
-      "class": "text",
-      "id": "CF9ACAC9-CF89-4ABE-90C7-5B09D053B181"
     }
   ],
   "name": "1: Atoms / Form Elements / Text Field / Disabled / No label",

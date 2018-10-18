@@ -34,6 +34,12 @@
   "nameIsFixed": false,
   "originalObjectID": "A899E751-3B51-439D-9899-D83F3366E91A",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5111D7DD-A153-4FDA-A7CF-8556B170F7EA",
+      "overrideName": "B21296C3-3269-4EBF-89C7-53D050A7FC5F_stringValue",
+      "value": "30 / 30"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

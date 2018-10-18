@@ -38,7 +38,7 @@
     "thickGridTimes": 32
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -133,6 +133,7 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 81.66666666666667,
+    "do_objectID": "708E1752-2589-44DD-BBED-2EC5713674D4",
     "drawHorizontal": true,
     "drawHorizontalLines": false,
     "drawVertical": true,

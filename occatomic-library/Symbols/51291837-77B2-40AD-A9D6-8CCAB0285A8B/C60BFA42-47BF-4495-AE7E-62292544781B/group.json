@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "9878CCE7-DEA6-4464-9B95-4F1044C3005C",
     "height": 18,
-    "width": 9,
-    "x": 8,
+    "width": 17,
+    "x": 0,
     "y": 3
   },
   "hasClickThrough": false,
@@ -34,6 +34,10 @@
     {
       "class": "shapePath",
       "id": "D7A9819C-D914-4411-8229-12D8A362B2BA"
+    },
+    {
+      "class": "shapePath",
+      "id": "919C4E60-75D1-4857-BFBB-13BAE428A804"
     }
   ],
   "name": "Original 1.5",

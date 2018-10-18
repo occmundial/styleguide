@@ -24,12 +24,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
+    "constrainProportions": true,
     "do_objectID": "24EA1887-3E91-4C0B-9CD7-E9322A0D3AC2",
-    "height": 24,
-    "width": 24,
-    "x": 8,
-    "y": 8
+    "height": 18,
+    "width": 18,
+    "x": 11,
+    "y": 11
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,

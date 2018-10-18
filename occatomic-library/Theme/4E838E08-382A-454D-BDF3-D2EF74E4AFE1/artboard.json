@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -81,6 +81,7 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 81.66666666666667,
+    "do_objectID": "021DD031-F866-40CC-8C97-C323291EBA67",
     "drawHorizontal": true,
     "drawHorizontalLines": false,
     "drawVertical": true,

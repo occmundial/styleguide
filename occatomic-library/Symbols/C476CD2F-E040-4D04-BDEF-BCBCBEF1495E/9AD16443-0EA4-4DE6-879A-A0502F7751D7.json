@@ -19,15 +19,15 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "0138C8C3-4687-450A-9008-A6FDCBC72A22",
-    "height": 32,
-    "width": 32,
-    "x": 74,
-    "y": 8
+    "height": 20,
+    "width": 19,
+    "x": 63,
+    "y": 15
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/02e2068706d42fe5b5797a455764782d77d267c6.png",
+    "_ref": "images/d4872511c6ca5bc92c77fb0c6055beedde7e5944.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,

@@ -32,6 +32,14 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "text",
+      "id": "CB44EA85-D3E7-4ED6-9BAC-98138DB75F00"
+    },
+    {
+      "class": "text",
+      "id": "3FA739A0-6E59-4D60-9F0C-503FE48BF7AF"
+    },
+    {
       "class": "rectangle",
       "id": "3603482E-A7E3-4DB8-AF24-ED1D8FB62B23"
     },
@@ -46,10 +54,6 @@
     {
       "class": "symbolInstance",
       "id": "BE49CD48-7CA0-4D87-9AC2-3EFFB61D2F6B"
-    },
-    {
-      "class": "text",
-      "id": "3FA739A0-6E59-4D60-9F0C-503FE48BF7AF"
     }
   ],
   "name": "Disabled",

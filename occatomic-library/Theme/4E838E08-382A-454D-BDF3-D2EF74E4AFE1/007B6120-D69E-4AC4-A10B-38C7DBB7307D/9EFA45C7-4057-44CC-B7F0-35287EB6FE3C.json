@@ -34,6 +34,18 @@
   "nameIsFixed": false,
   "originalObjectID": "7C1637A1-0321-4C69-8D89-C45372E7A136",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDFEF9D8-9C02-4637-83BE-64C47D74447C",
+      "overrideName": "7343994C-D365-4B8C-AC7D-D852022FE666_symbolID",
+      "value": "8CA0D529-A0F5-45F3-8C74-C71B8270D224"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "99787330-F9AA-4A1C-97B2-6689DD044E50",
+      "overrideName": "7343994C-D365-4B8C-AC7D-D852022FE666/8EF476E8-89B9-4DFB-B9B0-4BB91AEA0A5E_symbolID",
+      "value": "465CA714-EB61-4FAC-BB89-47FCCD12C27D"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

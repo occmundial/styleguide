@@ -32,6 +32,14 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "text",
+      "id": "81E17573-1695-4573-97C6-D697AB0AA57C"
+    },
+    {
+      "class": "text",
+      "id": "6CDA0B9B-49E4-445F-A47D-E8AE10923F4B"
+    },
+    {
       "class": "rectangle",
       "id": "2214958D-CBF8-450B-BC55-710543148B4B"
     },
@@ -46,10 +54,6 @@
     {
       "class": "symbolInstance",
       "id": "5779A0A5-AD86-4ED8-9BF1-C26402B4E06F"
-    },
-    {
-      "class": "text",
-      "id": "6CDA0B9B-49E4-445F-A47D-E8AE10923F4B"
     },
     {
       "class": "text",

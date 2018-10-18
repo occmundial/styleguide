@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2331,
+  "changeIdentifier": 2347,
   "clippingMaskMode": 0,
   "do_objectID": "225FF2B3-D13A-4C27-BA3B-6FCF6654487A",
   "exportOptions": {
@@ -60,6 +60,14 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "text",
+      "id": "BBD5CD9F-5C39-4748-82EE-8379A7DFBC34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2629EB5-DB18-4FA5-A9EA-B7E009E1AA8C"
+    },
+    {
       "class": "rectangle",
       "id": "F2503B73-C0B5-428C-AB88-AFD3D21BF3B6"
     },
@@ -74,14 +82,6 @@
     {
       "class": "symbolInstance",
       "id": "3331527E-883E-4689-8553-10709581E19A"
-    },
-    {
-      "class": "text",
-      "id": "BBD5CD9F-5C39-4748-82EE-8379A7DFBC34"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B2629EB5-DB18-4FA5-A9EA-B7E009E1AA8C"
     }
   ],
   "name": "1: Atoms / Form Elements / Text Field Icon / Error / No label",

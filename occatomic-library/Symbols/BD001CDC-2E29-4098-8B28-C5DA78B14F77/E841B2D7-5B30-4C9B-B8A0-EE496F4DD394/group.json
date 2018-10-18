@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 9,
-    "x": 6,
-    "y": 3
+    "height": 20,
+    "width": 11,
+    "x": 5,
+    "y": 2
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,6 +32,10 @@
     {
       "class": "shapePath",
       "id": "38A6C41D-1860-4E79-886B-0924F50A0410"
+    },
+    {
+      "class": "shapePath",
+      "id": "C6AC25E0-C019-485C-B27C-61CB1A276D59"
     }
   ],
   "name": "Original",

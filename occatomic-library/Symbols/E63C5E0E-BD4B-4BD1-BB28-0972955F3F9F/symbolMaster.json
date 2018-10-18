@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2495,
+  "changeIdentifier": 2496,
   "clippingMaskMode": 0,
   "do_objectID": "E63C5E0E-BD4B-4BD1-BB28-0972955F3F9F",
   "exportOptions": {
@@ -71,10 +71,6 @@
     {
       "class": "symbolInstance",
       "id": "72A6AF76-49CB-4862-BB9B-A944040CE5B6"
-    },
-    {
-      "class": "bitmap",
-      "id": "DE1F504A-9F8F-4CB3-8B2D-760C89A06E6B"
     }
   ],
   "name": "1: Atoms / Form Elements / Text Field Icon / Active / Just input",

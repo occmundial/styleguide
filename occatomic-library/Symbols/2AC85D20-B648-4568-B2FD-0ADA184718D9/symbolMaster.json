@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1867,
+  "changeIdentifier": 1931,
   "clippingMaskMode": 0,
   "do_objectID": "2AC85D20-B648-4568-B2FD-0ADA184718D9",
   "exportOptions": {
@@ -56,8 +56,16 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "text",
+      "id": "A849CEF6-38A1-4854-81B5-0A9B1D4F65BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "439E55BA-D87C-499F-96EF-61F6A45A39E1"
+    },
     {
       "class": "rectangle",
       "id": "251749D0-A8BC-4FF9-BAD6-AA36A2F4128A"
@@ -72,15 +80,11 @@
     },
     {
       "class": "text",
-      "id": "A849CEF6-38A1-4854-81B5-0A9B1D4F65BF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "439E55BA-D87C-499F-96EF-61F6A45A39E1"
+      "id": "B4D54529-C581-4C68-83E2-8BA105F6CCCD"
     },
     {
       "class": "text",
-      "id": "B4D54529-C581-4C68-83E2-8BA105F6CCCD"
+      "id": "2E6A39E1-7F73-4A12-84F2-7A1027B9205C"
     }
   ],
   "name": "1: Atoms / Form Elements / Text Field / Error / Default",

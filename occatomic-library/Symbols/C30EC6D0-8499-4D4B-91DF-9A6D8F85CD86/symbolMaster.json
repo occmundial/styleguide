@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2034,
+  "changeIdentifier": 2069,
   "clippingMaskMode": 0,
   "do_objectID": "C30EC6D0-8499-4D4B-91DF-9A6D8F85CD86",
   "exportOptions": {
@@ -57,8 +57,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "text",
+      "id": "5E910D81-ECC6-4F63-8719-73718C389B4B"
+    },
+    {
+      "class": "text",
+      "id": "487E506D-DA7F-4634-824C-4A22797C0C72"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9877FF97-0426-4BBC-83DD-AAA2CDA3AB07"
+    },
     {
       "class": "rectangle",
       "id": "DF13CBC9-45D4-4B98-A13A-F4A08FFF0937"
@@ -74,14 +86,6 @@
     {
       "class": "symbolInstance",
       "id": "7D7533DF-B240-4A05-86ED-B8913D2BEEDE"
-    },
-    {
-      "class": "text",
-      "id": "5E910D81-ECC6-4F63-8719-73718C389B4B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9877FF97-0426-4BBC-83DD-AAA2CDA3AB07"
     },
     {
       "class": "text",

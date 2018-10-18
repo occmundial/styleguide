@@ -9,7 +9,7 @@
     "red": 0.1333333333333333
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3837,
+  "changeIdentifier": 3841,
   "clippingMaskMode": 0,
   "do_objectID": "56BEA990-760F-4AD4-9DB9-BFDA62A306C0",
   "exportOptions": {
@@ -62,7 +62,7 @@
     },
     {
       "class": "bitmap",
-      "id": "F79AD945-B1F5-4A71-B204-DAE9E1418FCF"
+      "id": "6D3C1635-C9A6-4622-B5B0-F62143938753"
     }
   ],
   "name": "1: Atoms / Buttons / 6 Ghost White / Text / Hover",

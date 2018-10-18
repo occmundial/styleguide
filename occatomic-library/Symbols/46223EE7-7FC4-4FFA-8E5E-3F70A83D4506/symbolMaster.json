@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2190,
+  "changeIdentifier": 2223,
   "clippingMaskMode": 0,
   "do_objectID": "46223EE7-7FC4-4FFA-8E5E-3F70A83D4506",
   "exportOptions": {
@@ -60,6 +60,18 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "text",
+      "id": "CBB04230-D440-4716-BB6A-79A6B42A2CA7"
+    },
+    {
+      "class": "text",
+      "id": "9C7D1B71-E2FA-4477-B97A-47965EDED8FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C9B9FB4-F3F8-4308-86D4-D88B2CE76786"
+    },
+    {
       "class": "rectangle",
       "id": "1D7CF5F3-0200-4751-91CA-9D81A8E6B72A"
     },
@@ -70,14 +82,6 @@
     {
       "class": "text",
       "id": "FAB1DB9E-1842-406F-8A30-6ABB67145A4A"
-    },
-    {
-      "class": "text",
-      "id": "CBB04230-D440-4716-BB6A-79A6B42A2CA7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4C9B9FB4-F3F8-4308-86D4-D88B2CE76786"
     }
   ],
   "name": "1: Atoms / Form Elements / Text Field / Error / No label",

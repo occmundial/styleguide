@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -38,8 +38,8 @@
       "id": "6FAFC6FB-390D-42D5-AD94-9C89F6331828"
     },
     {
-      "class": "group",
-      "id": "5F67556D-E5DB-46A6-BD6E-10630C7800EB"
+      "class": "symbolInstance",
+      "id": "8147025E-CB16-4FA6-ABA2-B716AEF30D2D"
     }
   ],
   "name": "Group",

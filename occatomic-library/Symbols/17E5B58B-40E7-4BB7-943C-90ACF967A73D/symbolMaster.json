@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2209,
+  "changeIdentifier": 2213,
   "clippingMaskMode": 0,
   "do_objectID": "17E5B58B-40E7-4BB7-943C-90ACF967A73D",
   "exportOptions": {
@@ -59,6 +59,10 @@
     {
       "class": "symbolInstance",
       "id": "BC1545BE-794D-40FE-9C2F-1275EDF8DB05"
+    },
+    {
+      "class": "bitmap",
+      "id": "8C473742-64DD-4542-A8E5-5D4196FEFF97"
     },
     {
       "class": "text",
