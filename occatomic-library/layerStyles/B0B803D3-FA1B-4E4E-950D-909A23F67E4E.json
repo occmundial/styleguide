@@ -1,0 +1,17 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "B0B803D3-FA1B-4E4E-950D-909A23F67E4E",
+  "name": "Others / Disabled",
+  "value": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4000000059604645
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1F46BAF8-BD4B-4DA8-93E4-ECE9FF8CAA3E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AEED6CBC-3695-466E-9B83-4D6E51D40F83",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29A7392A-57FC-49F4-A3E9-718DAEFBDB0F",
+    "height": 44,
+    "width": 128,
+    "x": 128,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1: Atoms / Tab / Active Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0C2439E-975A-46CE-B88D-76D807FC5301",
+      "overrideName": "A230505C-BA7B-4BB6-83CD-D7509DCA9E93_stringValue",
+      "value": "Tab default"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "683C94DF-B6DF-4165-883D-105D947665D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F2E4683C-97B7-4304-AEC9-C4FEB3A2C73C",
+  "verticalSpacing": 0
+}

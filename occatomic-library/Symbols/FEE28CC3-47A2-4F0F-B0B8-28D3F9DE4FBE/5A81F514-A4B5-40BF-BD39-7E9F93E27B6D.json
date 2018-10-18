@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A81F514-A4B5-40BF-BD39-7E9F93E27B6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "660010C1-AEC9-4ED9-B1C6-8A2DE535817A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91C12C88-2892-4F1C-8F2A-44B401102CDA",
+    "height": 24,
+    "width": 24,
+    "x": 16,
+    "y": 12
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Left:",
+  "nameIsFixed": true,
+  "originalObjectID": "ED7A4625-0E3A-45B1-A326-6A41C53D5AA4",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F37740A1-6D0B-4EE7-9942-1B3B81ADDBB5",
+      "overrideName": "A886A604-D096-4996-A397-BA05153753D4_symbolID",
+      "value": "43BE2F12-0B20-4332-8E8E-CD84F74D1F9A"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "185F1497-6ADA-4BCA-A927-1BBDC4FBB004",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DAF622D6-5797-4C60-BD6C-ADAD17985F95",
+  "verticalSpacing": 0
+}

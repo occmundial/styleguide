@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "28299F26-3749-4CFA-B733-C90AC08B69D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "181C3B03-5F29-4063-8E19-5672F9720585",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7BE79875-693C-4967-A836-52EEC9397D7B",
+    "height": 18,
+    "width": 18,
+    "x": 16,
+    "y": 7
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Left:",
+  "nameIsFixed": true,
+  "originalObjectID": "D12E7BE0-6F83-43A7-BE63-9F422F593BF1",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03F03542-2F13-4D94-98DB-A0464987A70B",
+      "overrideName": "A886A604-D096-4996-A397-BA05153753D4_symbolID",
+      "value": "43BE2F12-0B20-4332-8E8E-CD84F74D1F9A"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.75,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "32954961-F23F-4ACB-A0C3-7CEABBDFD2C5",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "663181AA-544E-40A9-AF95-18FC7D3829EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DAF622D6-5797-4C60-BD6C-ADAD17985F95",
+  "verticalSpacing": 0
+}

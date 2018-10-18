@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5BF0E706-7502-4F3E-A5D1-9CE64D647433",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4718F0F6-5200-424E-A336-AA5D1883314B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0BCD647E-C1D2-4496-A34A-897241C2F01F",
+    "height": 24,
+    "width": 38,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6EF5578D-FD6B-4449-ADDA-FBA30477FEC2"
+    },
+    {
+      "class": "rectangle",
+      "id": "26EE133B-015C-4D9A-872B-1C2E1292A112"
+    },
+    {
+      "class": "group",
+      "id": "9563E1C8-9582-4C21-A7DD-39D5642F64CF"
+    }
+  ],
+  "name": "Switch",
+  "nameIsFixed": true,
+  "originalObjectID": "5370F8A6-67D8-4389-B1BB-FF05FCFD4261",
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CEC7DC57-C096-4434-941D-28B2DEF481BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

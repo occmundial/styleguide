@@ -1,0 +1,304 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans",
+              "size": 19
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 1,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 25.33333333333333,
+            "minimumLineHeight": 25.33333333333333,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 28,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 140,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 112,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 140,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 168,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 196,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 196,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 252,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 280,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 308,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 336,
+                "options": {
+                }
+              }
+            ]
+          }
+        },
+        "length": 7,
+        "location": 0
+      }
+    ],
+    "string": "#999999"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "64D92348-0895-4F38-9165-8C4E32AAA390",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0F37158-E852-4FFE-ACA4-FA2BFB09C4B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78A8E9CF-2883-4D55-BB03-E0776C9617A4",
+    "height": 26,
+    "width": 78,
+    "x": 180,
+    "y": 245
+  },
+  "glyphBounds": "{{0, 6}, {77, 15}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "#999999",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "09E23D3C-881A-4270-94AA-FF14C5363718",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15.83333333333333,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "0E86417C-10C2-4642-8F3C-83DBFCD4C77E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "5362E917-05CE-4697-A3DA-4A94CCB00E7C",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans",
+            "size": 19
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 1,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 25.33333333333333,
+          "minimumLineHeight": 25.33333333333333,
+          "tabStops": [
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 28,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 56,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 140,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 112,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 140,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 168,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 196,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 196,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 252,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 280,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 308,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 336,
+              "options": {
+              }
+            }
+          ]
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

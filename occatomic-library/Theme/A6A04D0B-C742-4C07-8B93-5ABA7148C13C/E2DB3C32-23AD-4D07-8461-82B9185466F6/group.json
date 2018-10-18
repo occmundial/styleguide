@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2DB3C32-23AD-4D07-8461-82B9185466F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 638,
+    "width": 320,
+    "x": 89,
+    "y": 151
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FB66BD4D-1BC3-4E57-A066-99A9C5183E71"
+    },
+    {
+      "class": "rectangle",
+      "id": "05C00449-EBB2-4AAD-AAF7-3CEDA132766C"
+    },
+    {
+      "class": "rectangle",
+      "id": "65DE9DE2-BF04-49F6-9E85-AC94F48E8992"
+    },
+    {
+      "class": "rectangle",
+      "id": "0F29F853-2A51-43E1-B4AD-4CE0D3E6F28A"
+    },
+    {
+      "class": "rectangle",
+      "id": "3F647040-7954-4743-8714-000B67F43803"
+    },
+    {
+      "class": "rectangle",
+      "id": "95A4459C-7F8F-4672-93B7-CFC04D2847EC"
+    },
+    {
+      "class": "text",
+      "id": "0304D295-F51E-4734-86B8-3EFD191DFDE4"
+    }
+  ],
+  "name": "iphone 5",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

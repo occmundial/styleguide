@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A692DA2B-91D0-4D46-9DD8-8EE1729C0A58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 107,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6DA237CB-9D41-490D-9A92-A19B8883C5D7"
+    },
+    {
+      "class": "text",
+      "id": "85414EC1-32D5-4E02-BF05-E8BC1016BF27"
+    }
+  ],
+  "name": "Disabled",
+  "nameIsFixed": true,
+  "originalObjectID": "A692DA2B-91D0-4D46-9DD8-8EE1729C0A58",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "310B732D-4026-4CC7-8BFF-13003C6AF47A",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4000000059604645
+    },
+    "do_objectID": "1D827AA1-A72B-4893-B0DF-5D83E0582E30",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

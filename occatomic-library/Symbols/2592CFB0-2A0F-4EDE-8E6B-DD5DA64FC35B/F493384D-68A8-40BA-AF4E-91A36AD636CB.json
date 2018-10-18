@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F493384D-68A8-40BA-AF4E-91A36AD636CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A995DCBD-C2E4-45F7-8502-BB15EFE3AB4F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BCB6C533-82C7-47FC-8712-3DFD483129A9",
+    "height": 18,
+    "width": 18,
+    "x": 72,
+    "y": 7
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Right:",
+  "nameIsFixed": true,
+  "originalObjectID": "AD6AAF4B-8F7D-4E06-A4D6-9B1078668EC7",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B5C4553-A17D-46F2-B0D1-CDFF9A619C44",
+      "overrideName": "96A64641-9D27-4846-AEA6-44B9A418FD80_symbolID",
+      "value": "EF5816CB-FACF-459F-8C58-A4385641139B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "67D3B4F9-0B89-4BD2-88E1-EBECFF689851",
+      "overrideName": "3C03F116-044E-459C-A879-BB6852D2E146_symbolID",
+      "value": "465CA714-EB61-4FAC-BB89-47FCCD12C27D"
+    }
+  ],
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.75,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0A4B3C4F-F1CB-4282-8500-59F0861DC08F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "225A4564-09B3-4FCF-B904-95B67724836E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B988D090-DD14-41F3-A36A-054031A675C9",
+  "verticalSpacing": 0
+}

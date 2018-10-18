@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E1AB2AE6-3741-428D-AC2F-5C623C1F1A51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C881B06-ECA1-4234-9970-56D0B0E32B15",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9E97A233-0BAB-42C4-9262-B0BC27535D01",
+    "height": 24,
+    "width": 24,
+    "x": 101,
+    "y": 11
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "0: Icons / Dark / Bell",
+  "nameIsFixed": false,
+  "originalObjectID": "F6A05939-C065-4F7B-BC38-18805B1009C9",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC518EF0-8CC8-45D9-AC96-1FB5CE061DFA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A8D2B8B-0F04-423B-A35E-8F79458DF714",
+  "verticalSpacing": 0
+}

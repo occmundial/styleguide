@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "80CACCB8-B9BC-4FAE-81AC-C2079370B93F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "414AD58C-22FD-41F2-B853-54B5D88ADF88",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91AC7EA8-0FE1-4AF8-AFC2-6540A6EB1492",
+    "height": 40,
+    "width": 112,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8FDF2F8C-497F-4A83-92A7-CEB802B1650A"
+    },
+    {
+      "class": "text",
+      "id": "C48BF3A1-CE57-4864-99C8-E3361380DCBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC68291E-081D-444C-82B1-B137CB31D8BC"
+    }
+  ],
+  "name": "Container",
+  "nameIsFixed": true,
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0702D37-3E3E-4B0F-A0A5-1D2BEDDA5440",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

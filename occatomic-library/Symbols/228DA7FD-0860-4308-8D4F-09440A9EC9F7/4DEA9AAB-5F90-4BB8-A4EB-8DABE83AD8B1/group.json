@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4DEA9AAB-5F90-4BB8-A4EB-8DABE83AD8B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F525FFB-31D8-4944-BC35-FF0A2C179707",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C492697-3C69-4CD2-8B8D-C0D26302B02B",
+    "height": 32,
+    "width": 87,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EC0FC9D2-C99F-4296-A96D-CBC8E9AEA2C5"
+    },
+    {
+      "class": "group",
+      "id": "CA170965-6651-4F69-9C2A-4D6C045F493F"
+    }
+  ],
+  "name": "Chips / Choice / Outlined / Enabled Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4C7FC2BD-9A34-4FAC-94BA-DAF7D0A93E7D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

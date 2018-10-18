@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6573F99A-7D0E-4DA6-8155-BE43D2DF96A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF2779F9-FDF9-477A-8A1F-B9BC7A0EE35E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F7FE5291-F488-4DEB-8F39-9D900630F001",
+    "height": 24,
+    "width": 24,
+    "x": 440,
+    "y": 132
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "0: Icons / Dark / Equalizer",
+  "nameIsFixed": false,
+  "originalObjectID": "E274BC88-E0F5-4E49-9BE1-048EB2940D95",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1C462A63-0E23-470C-BAFF-55802E1BD271",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42D6D2DE-9E0A-4C44-AF7E-2C29C5220AB5",
+  "verticalSpacing": 0
+}

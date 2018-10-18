@@ -1,0 +1,110 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "13C62A69-EB2C-4153-8067-0F484509728E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1867,
+  "clippingMaskMode": 0,
+  "do_objectID": "2AC85D20-B648-4568-B2FD-0ADA184718D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "164BC7E8-0FE4-4F89-B927-B264B70B4CAD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "414746CD-C608-4CF7-A5F0-448CFB9D06A3",
+    "height": 96,
+    "width": 290,
+    "x": 6624,
+    "y": 376
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "03CB9F40-CECB-4DDF-8088-47144C06A2D0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "251749D0-A8BC-4FF9-BAD6-AA36A2F4128A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02F6CC59-6CB9-4FD7-8873-21DCE9F9863E"
+    },
+    {
+      "class": "text",
+      "id": "DCA7A8AD-DB16-40CC-A75E-AFDBF0ACBE95"
+    },
+    {
+      "class": "text",
+      "id": "A849CEF6-38A1-4854-81B5-0A9B1D4F65BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "439E55BA-D87C-499F-96EF-61F6A45A39E1"
+    },
+    {
+      "class": "text",
+      "id": "B4D54529-C581-4C68-83E2-8BA105F6CCCD"
+    }
+  ],
+  "name": "1: Atoms / Form Elements / Text Field / Error / Default",
+  "nameIsFixed": true,
+  "originalObjectID": "E1F25FB1-DF6A-4773-9986-6FD1496F54A2",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "64DA2C1B-256A-4C8A-BE71-3B0F60CFAAF9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2ADE38FE-A123-466E-ABD0-B73D89E66C41",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4EB01897-B0E0-45CF-8913-0ADB050DF345",
+    "guides": [
+    ]
+  }
+}

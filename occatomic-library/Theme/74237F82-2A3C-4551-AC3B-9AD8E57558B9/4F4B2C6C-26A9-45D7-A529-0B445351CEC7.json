@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F4B2C6C-26A9-45D7-A529-0B445351CEC7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D549C89-89D1-4726-AEB2-81E8DE0E39A8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A70E891A-7928-4B0F-95DF-592F88C70DEF",
+    "height": 401,
+    "width": 270,
+    "x": 825,
+    "y": 585
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1: Atoms / Form Elements / Select / Drop-down Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B081A036-3C41-49B7-884E-E8AE81FAAFE6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5D169482-5B71-41C2-B9A1-916F6552BD87",
+  "verticalSpacing": 0
+}

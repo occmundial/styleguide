@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "14ED49B9-FFE7-45A6-B61D-CCC3BF3676BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3DA5D76E-E036-4F9F-960F-E278E1416F8B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D433A21-DBA9-4294-9C66-246C6A16B6D0",
+    "height": 48,
+    "width": 87,
+    "x": 502,
+    "y": 296
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1: Atoms / Buttons / Primary / Text / Hover Copy 6",
+  "nameIsFixed": true,
+  "originalObjectID": "FD6E4CF6-9E3C-4FA7-8A69-DDB2C3BD8378",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "68D711D3-7670-4E47-A243-CAFDEE28ECCF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "217CFF0C-0ED3-469A-B953-77370CA500CF",
+  "verticalSpacing": 0
+}

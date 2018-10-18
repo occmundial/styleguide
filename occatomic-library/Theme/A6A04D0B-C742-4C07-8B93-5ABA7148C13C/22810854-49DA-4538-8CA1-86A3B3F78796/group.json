@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "22810854-49DA-4538-8CA1-86A3B3F78796",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1067,
+    "width": 768,
+    "x": 89,
+    "y": 1102
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D1716706-9314-49AD-BF2D-19D6A79E1918"
+    },
+    {
+      "class": "rectangle",
+      "id": "D2BF6799-C966-428B-97EE-02DEF358FF46"
+    },
+    {
+      "class": "rectangle",
+      "id": "06EDFA81-347B-4828-958E-A5D71CF6AEC2"
+    },
+    {
+      "class": "rectangle",
+      "id": "B14E0BCB-046D-408C-B7A2-10B39745C9A8"
+    },
+    {
+      "class": "rectangle",
+      "id": "F9FA84F0-C6AE-4CE2-96E3-C1F301E4026D"
+    },
+    {
+      "class": "rectangle",
+      "id": "AEF6C281-108D-4E21-8EC8-FF6D6503F828"
+    },
+    {
+      "class": "rectangle",
+      "id": "FADB7BD9-7E4D-4F57-AE78-67211A7F288C"
+    },
+    {
+      "class": "rectangle",
+      "id": "85039440-BF64-4FDA-8BBB-F7F7EA3030D2"
+    },
+    {
+      "class": "rectangle",
+      "id": "4424A3B6-7C17-4DC2-82B0-F3FF10E9671A"
+    },
+    {
+      "class": "rectangle",
+      "id": "8899B739-AAED-4B4F-A915-53DAB5514CF0"
+    },
+    {
+      "class": "rectangle",
+      "id": "9B400E47-B68A-4B61-9190-C2D63F11AF13"
+    },
+    {
+      "class": "rectangle",
+      "id": "3FFA1430-87DF-4F07-B51D-3753DC9FEE8F"
+    },
+    {
+      "class": "rectangle",
+      "id": "F82CFE1A-9BE6-4A04-A5F3-E229ACEEA398"
+    },
+    {
+      "class": "rectangle",
+      "id": "F840EAFA-4552-44BA-8200-D5D106770200"
+    },
+    {
+      "class": "text",
+      "id": "88E5DE1A-146C-4F88-A334-EDA385414D78"
+    }
+  ],
+  "name": "iPad",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

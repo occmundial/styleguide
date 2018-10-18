@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2098EB68-8174-4E3E-91CB-42250EAB431D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6EEB1508-9673-4A35-8F84-8728A7DA3075",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5FB065E6-F106-41F0-B3B6-0D55B7C87A05",
+    "height": 32,
+    "width": 99,
+    "x": 35,
+    "y": 504
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1: Atoms / Pills / Text / Default Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9CF9FB4-99BE-456C-84DE-C8C58277B48D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "86B5080E-FD64-4139-A677-23F539E7921F",
+  "verticalSpacing": 0
+}

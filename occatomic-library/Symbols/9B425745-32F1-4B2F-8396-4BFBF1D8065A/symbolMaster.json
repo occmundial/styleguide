@@ -1,0 +1,106 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2941176470588236,
+    "green": 0.2941176470588236,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 9510,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B425745-32F1-4B2F-8396-4BFBF1D8065A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77A55AB5-0596-4F34-9E0E-250BC7774AA6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33E0A32B-CBCD-4B11-82F7-3AD39820A678",
+    "height": 24,
+    "width": 24,
+    "x": -905,
+    "y": 248
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 1,
+    "isEnabled": true,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D03F6D6C-39C8-413B-8C68-C126C160882E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A53F5182-DDE1-4D43-8E8B-2C992B6D0E5C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "519A4C5F-E2C9-4ABE-BB9E-29F30C93E3F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F4C9A2C-7AB7-4A2C-8E2B-C3B74F1C07A9"
+    }
+  ],
+  "name": "0: Icons  / Dashboard / Outlined",
+  "nameIsFixed": true,
+  "originalObjectID": "52AAE283-CA5E-4699-9D9E-B818C3875214",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61716368-DCA8-4339-9C8E-3FB58C3C6817",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "63FD03A5-FDC6-4AB6-BFA8-28C254FBFC90",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F92BBC09-FE66-4FC2-87D3-872E1382B60D",
+    "guides": [
+    ]
+  }
+}

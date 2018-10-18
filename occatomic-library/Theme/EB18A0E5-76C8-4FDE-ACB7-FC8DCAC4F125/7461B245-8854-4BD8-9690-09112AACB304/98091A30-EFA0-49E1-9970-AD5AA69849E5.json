@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "98091A30-EFA0-49E1-9970-AD5AA69849E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE4F313C-9677-4588-9467-F2D2E993BD66",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF44A7C5-3266-4A55-A25A-112A94B059A4",
+    "height": 44,
+    "width": 128,
+    "x": 256,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1: Atoms / Tab / Active Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CCDC4134-22D4-4984-9C6B-AB668B54CA6D",
+      "overrideName": "A1BB8D27-54C7-40F7-B4B2-621FDA3FFCC5_stringValue",
+      "value": "Tab hover"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F871A8C-F182-49BB-B80C-2B301B01C39E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3BA0760B-69C2-4387-845F-A9717EF29D11",
+  "verticalSpacing": 0
+}

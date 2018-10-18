@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5EDD12EF-34AC-4E7A-B810-9B2E93AB3CD4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2190,
+  "clippingMaskMode": 0,
+  "do_objectID": "46223EE7-7FC4-4FFA-8E5E-3F70A83D4506",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D53D3105-D9B1-45EA-9D37-8466C3435CDB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A073B25F-B06E-442E-8C73-51A7D43A48B8",
+    "height": 72,
+    "width": 290,
+    "x": 6962,
+    "y": 376
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "8CC351A4-06C6-48FA-9FCF-BEF96E7A1610",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "86BCEFFA-1AD4-43BD-BC1E-947D13984B88",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1D7CF5F3-0200-4751-91CA-9D81A8E6B72A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE6CCD10-3782-4E6F-8386-9D14C46EB183"
+    },
+    {
+      "class": "text",
+      "id": "FAB1DB9E-1842-406F-8A30-6ABB67145A4A"
+    },
+    {
+      "class": "text",
+      "id": "CBB04230-D440-4716-BB6A-79A6B42A2CA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C9B9FB4-F3F8-4308-86D4-D88B2CE76786"
+    }
+  ],
+  "name": "1: Atoms / Form Elements / Text Field / Error / No label",
+  "nameIsFixed": true,
+  "originalObjectID": "E1F25FB1-DF6A-4773-9986-6FD1496F54A2",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "282603AB-2284-47C0-A634-6FDC331C399B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "41065578-C71C-4E7A-9B63-A0C16CFDEB41",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2F31BC16-9BD9-485E-972A-4952DC00FC59",
+    "guides": [
+    ]
+  }
+}

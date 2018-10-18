@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.5710227272727273,
+    "do_objectID": "5D00EBA3-6BAE-4A5F-A727-B5A1F6EC0547",
+    "green": 0.5710227272727273,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2048,
+  "clippingMaskMode": 0,
+  "do_objectID": "803073EC-6747-4F2B-9E15-9EAC5B4F0FD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7BE26402-FCBA-491B-A938-0101CB39EED3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFB9A481-7B7C-4BF8-855C-CECD96F36C6A",
+    "height": 72,
+    "width": 290,
+    "x": 7880,
+    "y": 556
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8ACC7A75-26B6-40DB-BD36-8868A8FBF889",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C0284965-0AF7-4293-8945-1B9BC4067436"
+    },
+    {
+      "class": "text",
+      "id": "B2176C57-D64F-4FB6-85B6-FADB8061ADD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4286689-1711-40BC-91A5-05758B0ADC80"
+    },
+    {
+      "class": "text",
+      "id": "F0B5679D-6C13-496E-89D1-93A0390E5653"
+    }
+  ],
+  "name": "1: Atoms / Form Elements / Search / Input / Deault with icon",
+  "nameIsFixed": true,
+  "originalObjectID": "7C1637A1-0321-4C69-8D89-C45372E7A136",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1541FD1B-13C1-40A5-B35A-78018CAFF7FD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD79D198-D05A-42E0-BF48-D38F765FD47D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "67C38A59-1ABE-410D-A398-2124D963464F",
+    "guides": [
+    ]
+  }
+}

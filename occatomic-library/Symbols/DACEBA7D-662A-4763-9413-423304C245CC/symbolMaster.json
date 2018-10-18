@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B126DF1B-67B2-4D33-A4BB-372D1FC0A457",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2199,
+  "clippingMaskMode": 0,
+  "do_objectID": "DACEBA7D-662A-4763-9413-423304C245CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D33EA3B-4591-4477-B13F-D907BC497FBB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CA58078-7E32-432E-9884-21FCD947BE46",
+    "height": 1,
+    "width": 400,
+    "x": 5944,
+    "y": 48
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "930ADCC4-3910-4A86-95B7-B21F02711FFA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "48C30B91-7EEC-47DF-A231-12F7C8321D24"
+    }
+  ],
+  "name": "1: Atoms / Divider / Disabled",
+  "nameIsFixed": true,
+  "originalObjectID": "E46A078F-53CE-46ED-B77C-7B2F281EC8B4",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4BBB83C3-2F22-4A3A-9E24-4AA4723274AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DE795935-1433-4B54-87C1-29175047BFB6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "AC0DA09A-734F-4894-B919-BCC4559033C7"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5E1C8EA3-D3D6-4730-91AA-FA80E2541FC2",
+    "guides": [
+    ]
+  }
+}

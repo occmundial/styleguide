@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A8F8AC5-BD1B-4B24-88F0-75491441147A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BD24C2C-1B9E-4FFD-88D2-AB4B2F97A79B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "18336274-F9B5-4114-9AB3-44C34DA433D2",
+    "height": 14,
+    "width": 14,
+    "x": 2,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "0: Icons / Dark / Bell Copy 2",
+  "nameIsFixed": false,
+  "originalObjectID": "F6A05939-C065-4F7B-BC38-18805B1009C9",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5833333333333334,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BE83F260-8AB8-4B50-8578-264E5A00E100",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.833333333333333,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "6268282D-1A5E-4942-9749-60DB44C8AF75",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A8D2B8B-0F04-423B-A35E-8F79458DF714",
+  "verticalSpacing": 0
+}

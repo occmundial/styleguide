@@ -1,0 +1,90 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "ED111FC0-01CC-4C58-AD45-B941DCB49AD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DFC3E141-410F-4719-A0E7-A2DD14155D7D"
+    },
+    {
+      "class": "shapePath",
+      "id": "80C88A54-40D7-4207-8EEE-26BCB8C25BFC"
+    },
+    {
+      "class": "shapePath",
+      "id": "55204073-4BB7-418F-B65F-48137D45D6FD"
+    },
+    {
+      "class": "shapePath",
+      "id": "75ABE5BF-BCF9-4AE3-B9F6-BDF4944E213D"
+    },
+    {
+      "class": "shapePath",
+      "id": "7176680E-25CE-42D0-A0DB-5998042BFA73"
+    },
+    {
+      "class": "shapePath",
+      "id": "7B9782EC-6933-4DF4-BC0E-C4B784DD49DD"
+    }
+  ],
+  "name": "Fill 158",
+  "nameIsFixed": false,
+  "originalObjectID": "485A094E-DD24-4940-B254-21559F7846FD",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

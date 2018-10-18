@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "15DD3C0E-AF81-4326-9EC2-B6CF5012C9CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A874A6FC-7496-4026-8577-6135B83C89DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C99C2B78-9A28-4C8F-A5CE-A0A277FE10DA",
+    "height": 24,
+    "width": 24,
+    "x": 602,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "0: Icons / Dark / House",
+  "nameIsFixed": false,
+  "originalObjectID": "D30447A2-E55E-4983-B4E5-94980A90B55D",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CF1F194-0501-4938-8034-421E52A4F321",
+      "overrideName": "E6295424-A5EF-4E14-A646-9760D38D7CE2_symbolID",
+      "value": "C3EB63EC-117A-4494-A4B9-CB1B3DB012A5"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9697D77D-A23C-4ACC-A7F7-0810B9DF4A87",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "356AC0F0-2BC1-4351-A5E1-D82E5D218BFB",
+  "verticalSpacing": 0
+}

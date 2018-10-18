@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "007B6120-D69E-4AC4-A10B-38C7DBB7307D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "74DB12D7-283E-4D9B-9F9A-6B3A4B014A1D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A11DB2FA-40F3-4022-99A9-46382F1CC700",
+    "height": 190,
+    "width": 294,
+    "x": 885,
+    "y": 128
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9EFA45C7-4057-44CC-B7F0-35287EB6FE3C"
+    },
+    {
+      "class": "text",
+      "id": "9A0A668F-B8B0-4556-A6D1-C2927FA4260A"
+    },
+    {
+      "class": "text",
+      "id": "C46D209E-E4F4-43FF-AB1E-E6785526251F"
+    }
+  ],
+  "name": "Text Inputs Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D8CB9F3-AA10-48E0-92C7-6C92B5317EB8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

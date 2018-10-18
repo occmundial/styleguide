@@ -1,0 +1,88 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "149E99B8-D90B-465E-A6F2-DA93DC8ABBE9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2209,
+  "clippingMaskMode": 0,
+  "do_objectID": "A15B0AE1-D351-41AE-8DBE-856945A35BFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "317A1698-4D75-43E3-B1CA-5C1318BB7017",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31BE18C5-B9EB-4111-ADCE-05919491DCCB",
+    "height": 72,
+    "width": 270,
+    "x": 10423,
+    "y": 692
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2E773D79-B8F9-4F33-BCDC-2BB6F00B79ED",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "67D55E24-181F-4CE9-9376-8B9EBF80C764"
+    },
+    {
+      "class": "group",
+      "id": "06B34A8B-D824-41E1-9A05-37E88FB6A79D"
+    }
+  ],
+  "name": "1: Atoms / Form Elements / Select / Error / No label",
+  "nameIsFixed": true,
+  "originalObjectID": "63CD2D82-74D7-4700-B64B-E6E97C49908A",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD250301-E9F1-46CC-997F-AE4FA055F003",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "79270E49-B0FF-4683-992D-819CA058BCD0",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7B4748FF-6DCB-4F2F-AE22-46C80481A01D",
+    "guides": [
+    ]
+  }
+}

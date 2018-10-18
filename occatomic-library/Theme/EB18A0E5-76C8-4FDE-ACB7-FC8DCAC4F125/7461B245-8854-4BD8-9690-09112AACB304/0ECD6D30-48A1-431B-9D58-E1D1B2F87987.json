@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0ECD6D30-48A1-431B-9D58-E1D1B2F87987",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70A2B841-FD1D-43B3-AD95-9FF91A35F6F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F47B8D6F-EB0A-4067-97D2-C633B8D36B7A",
+    "height": 44,
+    "width": 128,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1: Atoms / Tab / Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B846A952-8CD0-4F9E-9091-ED4DA8095786",
+      "overrideName": "53A1FE50-3D4E-42B6-B022-8C86B3F133C0_stringValue",
+      "value": "Tab active"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8596B481-1736-434F-8B4D-B0BA3F809034",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "33DBEA07-E162-44F3-94A7-DB51B8D58D94",
+  "verticalSpacing": 0
+}

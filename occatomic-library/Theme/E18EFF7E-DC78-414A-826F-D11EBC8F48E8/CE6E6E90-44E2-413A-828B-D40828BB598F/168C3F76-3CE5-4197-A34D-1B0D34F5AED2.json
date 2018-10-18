@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "168C3F76-3CE5-4197-A34D-1B0D34F5AED2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "389E9543-9219-47FE-A9FF-A2A7483F78A7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "24B3C758-36E9-4FE1-8445-BDD283EC81FE",
+    "height": 24,
+    "width": 24,
+    "x": 132,
+    "y": 44
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "0: Icons / Dark / Chat",
+  "nameIsFixed": false,
+  "originalObjectID": "127681F4-DE3E-4FF2-AFFC-58C8855C1E05",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29D871A8-F864-49D5-83B5-4BD4062ABB97",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A7476FC-B7DB-43ED-B317-E6DBCE48F4BF",
+  "verticalSpacing": 0
+}

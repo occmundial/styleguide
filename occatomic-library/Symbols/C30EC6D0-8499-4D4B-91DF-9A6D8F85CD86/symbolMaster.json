@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AC36D7E2-F48F-4304-B50D-19C1A3179273",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2034,
+  "clippingMaskMode": 0,
+  "do_objectID": "C30EC6D0-8499-4D4B-91DF-9A6D8F85CD86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40D158B8-9A3C-4268-A3B2-FFB289000EAC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3E58B35-7F94-4FE6-8639-AD60F7F22F74",
+    "height": 96,
+    "width": 290,
+    "x": 6624,
+    "y": 1177
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "C31F4756-4CFC-4DE4-8701-CC4A2EF322AB",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DCA92532-5557-4972-A303-09356215760A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DF13CBC9-45D4-4B98-A13A-F4A08FFF0937"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD0F5CC4-FC2B-45FE-86B3-0808A8D90399"
+    },
+    {
+      "class": "text",
+      "id": "CD4A55E3-777B-4EF4-88BE-D611F24B7ED5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D7533DF-B240-4A05-86ED-B8913D2BEEDE"
+    },
+    {
+      "class": "text",
+      "id": "5E910D81-ECC6-4F63-8719-73718C389B4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9877FF97-0426-4BBC-83DD-AAA2CDA3AB07"
+    },
+    {
+      "class": "text",
+      "id": "FCB5CD15-1D62-48D4-91B0-0934302A3395"
+    }
+  ],
+  "name": "1: Atoms / Form Elements / Text Field Icon / Error / Default",
+  "nameIsFixed": true,
+  "originalObjectID": "E1F25FB1-DF6A-4773-9986-6FD1496F54A2",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01021C7C-C55C-4122-BD77-EFE6B5865951",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "671C31D9-1257-4C67-B8E1-D113CEE4C98F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C3911D84-E4B4-40E2-96C7-C96779C9B814",
+    "guides": [
+    ]
+  }
+}

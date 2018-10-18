@@ -1,0 +1,102 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2941176470588236,
+    "green": 0.2941176470588236,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 5398,
+  "clippingMaskMode": 0,
+  "do_objectID": "F16B3C62-B3E5-4965-A212-83A9295B53F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 24,
+    "x": -905,
+    "y": 496
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4F1D8670-C141-4E18-9C23-35DB2E29930C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EBBDE478-B686-4333-B5CA-D808DAB0A529"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "77B2FEAD-2DC7-45E4-A671-6B6A5C03A4DE"
+    }
+  ],
+  "name": "0: Icons / Avatar / Outlined",
+  "nameIsFixed": true,
+  "originalObjectID": "F16B3C62-B3E5-4965-A212-83A9295B53F3",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BCFE88FE-4B54-47C1-8508-7E0B8C1A2F8E",
+  "userInfo": {
+    "DLMidnight": {
+      "layerColor": "blue"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      21,
+      20
+    ]
+  }
+}

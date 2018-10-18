@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCE49159-0CDB-4829-BA74-3CE2DC773A1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5CA8D01A-445F-437F-9947-7701210E31C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C700D7CB-489F-44C7-B9BB-2A3076244D04",
+    "height": 24,
+    "width": 24,
+    "x": 660,
+    "y": 264
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "0: Icons / Dark / Burger Menu",
+  "nameIsFixed": false,
+  "originalObjectID": "938A0CA3-23BB-4F38-84AD-9EF342E9ABEA",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CBE9257-7AD3-4846-9771-16B9E386C0C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2710FC3B-EF46-48DE-A3B1-168D40F7B86E",
+  "verticalSpacing": 0
+}

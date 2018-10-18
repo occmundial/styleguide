@@ -1,0 +1,104 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.5710227272727273,
+    "do_objectID": "7C19F1B7-7108-4CD7-9DEB-1A5967DD91AE",
+    "green": 0.5710227272727273,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2706,
+  "clippingMaskMode": 0,
+  "do_objectID": "939E8B90-370F-41EE-9B58-6B0ABFB1A158",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0451CE6-0864-41BD-AB0C-DC8C549B211F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F91BE66E-1207-4B77-A5CF-ED8157DEC477",
+    "height": 72,
+    "width": 290,
+    "x": 7880,
+    "y": 763
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3BE683C9-B03B-44B0-BB9F-D2502FF789DD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "75D3D154-62B1-4388-9F9C-3DEFD95A204D"
+    },
+    {
+      "class": "text",
+      "id": "8C1FB903-20E9-498F-9566-2D222D11B197"
+    },
+    {
+      "class": "text",
+      "id": "FC7BA0FF-C0F6-4D51-88CC-4F0E71D0E273"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "151D5356-AB43-4EAD-ACED-DA06DA79CB0C"
+    },
+    {
+      "class": "shapePath",
+      "id": "45841799-B884-46EB-B64C-AC5E0BB4A91F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DCF61629-3C20-426C-8B90-A2D9B8664792"
+    }
+  ],
+  "name": "1: Atoms / Form Elements / Search / Input / Active with value with icon",
+  "nameIsFixed": true,
+  "originalObjectID": "A899E751-3B51-439D-9899-D83F3366E91A",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D8CBE0AD-23D6-4DF5-B7E0-26928259ADA1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7100D13A-451E-4E77-A5B8-CF3860979928",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "889F5A67-A54B-44B6-B0E0-23123481D41D",
+    "guides": [
+    ]
+  }
+}

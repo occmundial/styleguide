@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DD694A8-4039-4183-B279-B1C31A33C0AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "449E01C5-EA14-4AC4-B091-B7D3100F14B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "803C39A7-6B32-4EBE-A577-ADCFADBADCFC",
+    "height": 24,
+    "width": 24,
+    "x": 176,
+    "y": 308
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "0: Icons / Dark / Dashboard",
+  "nameIsFixed": true,
+  "originalObjectID": "FC9BF19F-D3A7-412C-8784-93BDB34D245B",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E9CED57-DE63-4F9F-BE6B-AEB0D472ABB5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "63FD03A5-FDC6-4AB6-BFA8-28C254FBFC90",
+  "verticalSpacing": 0
+}

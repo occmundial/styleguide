@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "65D871FC-3E54-4E8E-8089-29E242ED872D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B12A74B-8FD0-4A8A-8500-248D3E62AA17",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "51CA68EB-2462-49B1-AAFF-7EF4561EA753",
+    "height": 24,
+    "width": 24,
+    "x": 846,
+    "y": 11
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "0: Icons / Dark / Cart",
+  "nameIsFixed": false,
+  "originalObjectID": "87A124A2-5DC2-453C-915F-7E498DAA35DA",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "577512D4-6BB4-4F36-80CD-2D41F87864AD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3D45D29D-E2B4-45B0-AA39-3DD5F6D60363",
+  "verticalSpacing": 0
+}

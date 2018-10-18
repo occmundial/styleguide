@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A1EA58B7-8C33-42BC-B2AB-176CE747E69A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D6E539E-6194-4801-BE58-778083E59F12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC40496F-20CF-44F8-9C69-8653BA170250",
+    "height": 32,
+    "width": 101,
+    "x": 16,
+    "y": 32
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1: Atoms / Pills / Default Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70B92712-AC84-4529-AF82-333F9A409817",
+      "overrideName": "1C51DD59-C372-4B84-B158-4C5004651063/3C03F116-044E-459C-A879-BB6852D2E146_symbolID",
+      "value": "A6E88D07-A72E-4EEA-8702-26EAEBF9C7FF"
+    }
+  ],
+  "resizingConstraint": 57,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE1BBAE1-4E12-4163-A2E8-0F486030BEFA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8FF5EE5A-0C7D-4BA9-9319-4F582C9A5D8B",
+  "verticalSpacing": 0
+}

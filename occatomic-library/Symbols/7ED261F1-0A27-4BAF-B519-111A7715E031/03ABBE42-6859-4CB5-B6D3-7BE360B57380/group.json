@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "03ABBE42-6859-4CB5-B6D3-7BE360B57380",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "464A36E0-2F2E-4E89-8B19-6D803F7DD1C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "123954A4-39B1-4187-85A0-5C96EC330129",
+    "height": 18,
+    "width": 18,
+    "x": 3,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "111E2F9C-5717-46E4-93BC-B3D26F01603C"
+    },
+    {
+      "class": "oval",
+      "id": "E1E1C4DE-CB63-4F80-844C-D7D2B4B616EB"
+    },
+    {
+      "class": "shapePath",
+      "id": "102ADBB4-AD2A-45B4-8D31-02F62AB5E5F2"
+    },
+    {
+      "class": "shapePath",
+      "id": "91B5C4E6-5E41-431F-8CE6-6B41A4B3735A"
+    }
+  ],
+  "name": "Radio-Button",
+  "nameIsFixed": true,
+  "originalObjectID": "75675CA0-5FB9-4E04-BC14-AB13F8D56E4A",
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BDE64C42-CA42-4B44-AF06-8E6468F44FF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2161,
+  "clippingMaskMode": 0,
+  "do_objectID": "97D710BA-8C7E-443E-B8B7-2BEF13F82AEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 946,
+    "y": 138
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E5104391-74BC-4B4B-9120-FBDF9562E108"
+    },
+    {
+      "class": "rectangle",
+      "id": "A7DA12DD-2FE7-45E5-AADF-77CF93A75D61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71639742-961B-461F-88ED-094BCC16C385"
+    },
+    {
+      "class": "bitmap",
+      "id": "D9D4CD9A-CA37-4724-A5CC-47BDDB06C54F"
+    }
+  ],
+  "name": "1: Atoms / Buttons / 2 Secondary / Icon / Hover",
+  "nameIsFixed": true,
+  "originalObjectID": "97D710BA-8C7E-443E-B8B7-2BEF13F82AEC",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D98BBF5F-3222-4571-A033-46128E7D3210",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

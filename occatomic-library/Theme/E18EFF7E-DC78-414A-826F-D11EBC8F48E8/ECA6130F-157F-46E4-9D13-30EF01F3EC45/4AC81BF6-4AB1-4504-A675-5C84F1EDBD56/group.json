@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4AC81BF6-4AB1-4504-A675-5C84F1EDBD56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06E1890A-FCED-40F1-B0AD-BA6982201D78",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "328278CE-FD3E-44BF-AC38-01DC61483479",
+    "height": 285,
+    "width": 285,
+    "x": 610,
+    "y": 56
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CB41A41F-6CBC-46CC-B830-48E9256ACB85"
+    },
+    {
+      "class": "rectangle",
+      "id": "BE27FA17-D7E0-4CCB-93DF-3AE9475B3851"
+    },
+    {
+      "class": "rectangle",
+      "id": "288CC101-8560-4B25-8218-79ED408C833A"
+    },
+    {
+      "class": "rectangle",
+      "id": "C5553FD5-EBFA-49CC-A788-654481A74A0F"
+    },
+    {
+      "class": "rectangle",
+      "id": "9F00CD32-0431-4ADA-AD13-168DD2AD91BE"
+    },
+    {
+      "class": "text",
+      "id": "517BC2E2-77D3-4824-B8C8-F96E2E665DE1"
+    },
+    {
+      "class": "text",
+      "id": "AC998C48-C7AC-4BDF-BEAE-65F8740D27BA"
+    },
+    {
+      "class": "text",
+      "id": "ED8C38A9-7FCB-46DF-859A-69F951436582"
+    },
+    {
+      "class": "text",
+      "id": "66036329-844C-4A6B-A639-0FA97C04805E"
+    },
+    {
+      "class": "text",
+      "id": "7299D6BE-60AB-44EC-9FB5-2385C3616D2B"
+    },
+    {
+      "class": "text",
+      "id": "B948F244-C295-4157-A1E8-4FD9FD2F3686"
+    },
+    {
+      "class": "text",
+      "id": "863A2E1C-E6FF-47CC-9401-40701E23E89D"
+    },
+    {
+      "class": "text",
+      "id": "9C3046CC-AC47-4908-9B6B-19AF6E1E3ABD"
+    }
+  ],
+  "name": "Color / Palette / Ink",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B383A832-3CAD-4A97-AC04-9CAE3F640257",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15.83333333333333,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "378FAF74-78E7-4874-9439-9A1F60A9B866",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

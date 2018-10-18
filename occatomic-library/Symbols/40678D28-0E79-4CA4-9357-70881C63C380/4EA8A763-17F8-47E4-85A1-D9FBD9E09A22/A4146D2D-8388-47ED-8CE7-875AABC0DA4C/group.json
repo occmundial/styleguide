@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4146D2D-8388-47ED-8CE7-875AABC0DA4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A7DF010-58CA-4D6B-9CC3-0BB29C1C3A73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "37646E6B-85FC-424A-B916-E4570BEB6FE2",
+    "height": 32,
+    "width": 87,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5A45668B-A580-4DAF-A8F1-09631BE65B5D"
+    },
+    {
+      "class": "group",
+      "id": "BBC4CD39-C7C9-4ED7-A63A-09B8C7D02317"
+    }
+  ],
+  "name": "STATE OVERLAY",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34A56CCA-3241-4718-A0A7-471432151BCF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

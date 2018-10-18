@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CEB88D0C-9EC6-4396-AC15-5E45C68752F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACB5D239-C4B3-4C96-8435-3C75CC324E05",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CDB78422-B1A4-488F-8063-DFE4D3DC052C",
+    "height": 722,
+    "width": 290,
+    "x": 41,
+    "y": 128
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "99CF41DD-37D0-4A4A-9EC5-8A38D9D7B456"
+    },
+    {
+      "class": "text",
+      "id": "B1196388-83A3-4D29-939B-4F08A7A3642F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E34B884-CDF5-410A-8C58-CF120B228F69"
+    },
+    {
+      "class": "text",
+      "id": "A143AB85-D2C6-407E-80DD-C9D1F818E963"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6544B69-56BB-40B7-B0DC-5716C222FD64"
+    },
+    {
+      "class": "text",
+      "id": "7507C3F0-2A15-4CE7-B5EA-55D704BF2F0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FB306B8-59F4-4C0E-8B7A-F3EEA33ABE54"
+    },
+    {
+      "class": "text",
+      "id": "1107A2E0-34F5-4B75-AE50-24CB203DAB7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "10D4B388-08C2-41A4-81B7-2F1E7385629C"
+    },
+    {
+      "class": "text",
+      "id": "57DADDDD-BADE-401F-AD8D-49C4CAE006E6"
+    },
+    {
+      "class": "text",
+      "id": "A64DBDEB-4305-49FD-B4D8-A889A9080230"
+    }
+  ],
+  "name": "Text Inputs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EBE2A732-CB65-485A-A624-DBCA658C8600",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

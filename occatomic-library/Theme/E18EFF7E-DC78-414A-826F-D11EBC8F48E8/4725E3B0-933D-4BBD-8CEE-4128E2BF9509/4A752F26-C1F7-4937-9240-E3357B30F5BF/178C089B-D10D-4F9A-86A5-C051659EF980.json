@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "178C089B-D10D-4F9A-86A5-C051659EF980",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "387FB9BE-6A7F-484A-9E75-AFE28398F3AE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DE295B27-2C22-4EBF-8695-5B8427DB888D",
+    "height": 24,
+    "width": 24,
+    "x": 627,
+    "y": 11
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "0: Icons / Dark / House",
+  "nameIsFixed": false,
+  "originalObjectID": "D30447A2-E55E-4983-B4E5-94980A90B55D",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "580FC578-DDE3-4BF2-8CEC-28FF426039E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A0F1C705-7F50-447E-9484-DBE45AD031B1",
+  "verticalSpacing": 0
+}

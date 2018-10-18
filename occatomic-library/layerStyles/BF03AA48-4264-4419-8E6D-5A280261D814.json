@@ -1,0 +1,12 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "BF03AA48-4264-4419-8E6D-5A280261D814",
+  "name": "Others / Ghost",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC85711B-0EFC-4821-8CD8-E3E94FD6BCB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60326A86-6937-4E1F-BC4A-6C13B52150C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1F40648-53DE-4AFE-BBC0-7363F5FCF321",
+    "height": 48,
+    "width": 87,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "26C085F8-B1EB-40F4-BEC3-1202CFDA3901"
+    },
+    {
+      "class": "text",
+      "id": "9A8A78D3-EDD9-4BEF-BC7E-C31764193723"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A43156BF-3B24-4565-8ED8-7C6FC2484642"
+    }
+  ],
+  "name": "Conainer",
+  "nameIsFixed": true,
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D2F8080-A31B-4B0F-B1E8-7EED23C71347",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D2C0F7B-8E96-4CD1-B8D0-97272D983032",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E1B0914-46B7-49AB-8DE4-AF63AED5C104",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90E665D7-9C53-45D2-BA34-0F5D5BA4F28D",
+    "height": 18,
+    "width": 18,
+    "x": 3,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F572D960-F70D-44D2-A712-2DE96E278DC5"
+    },
+    {
+      "class": "shapePath",
+      "id": "4B0639C7-35AC-4E06-84DD-2189994761CF"
+    }
+  ],
+  "name": "Checkbox",
+  "nameIsFixed": true,
+  "originalObjectID": "75A7DF78-E3CE-41BC-A149-9AAB1EE177FD",
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C4F5F3E-25C1-4006-A8DF-3A2B1670B5D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

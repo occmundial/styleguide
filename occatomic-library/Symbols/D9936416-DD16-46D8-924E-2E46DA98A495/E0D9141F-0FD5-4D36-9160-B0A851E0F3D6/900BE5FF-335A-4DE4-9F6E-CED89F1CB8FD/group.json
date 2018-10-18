@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "900BE5FF-335A-4DE4-9F6E-CED89F1CB8FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E06262F-AFBF-40C1-91B5-47A14676653E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BB1122D1-FCB3-4F0B-B024-E32138CE1E17",
+    "height": 18,
+    "width": 18,
+    "x": 3,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "8443B360-4F27-4D10-BEA9-C604BC60CAF3"
+    },
+    {
+      "class": "oval",
+      "id": "A76BAA49-D631-4D40-8A2A-C5CAA9381839"
+    },
+    {
+      "class": "shapePath",
+      "id": "920547E0-66C2-4AD5-8034-01C005B6E992"
+    }
+  ],
+  "name": "Radio-Button",
+  "nameIsFixed": true,
+  "originalObjectID": "75675CA0-5FB9-4E04-BC14-AB13F8D56E4A",
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "671972CE-87F1-4F33-892A-A480451FC60A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

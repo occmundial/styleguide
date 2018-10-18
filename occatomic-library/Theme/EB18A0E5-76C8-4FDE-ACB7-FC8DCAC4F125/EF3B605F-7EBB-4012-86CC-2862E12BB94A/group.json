@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF3B605F-7EBB-4012-86CC-2862E12BB94A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21DDB75A-4C4C-49A7-B979-391356393142",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B7465D68-E1FB-48FA-B47E-B8C03D9DA14A",
+    "height": 566,
+    "width": 286,
+    "x": 346,
+    "y": 884
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "85FD2544-1F9C-4EDD-B3E5-1F1834F76CC3"
+    },
+    {
+      "class": "text",
+      "id": "DE0B9958-D5DB-4007-8D35-CAFB262BC516"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B56FD7F-F15E-4AAF-ACF4-BEC3D26E8AAE"
+    },
+    {
+      "class": "text",
+      "id": "3534327C-7497-46AD-9186-936B6EA647D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9FFE56E4-E2FC-4907-9AC9-F37CFF299686"
+    },
+    {
+      "class": "text",
+      "id": "E17E00D1-1B46-4279-8B28-7067F50F806A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "14535C11-B9EF-445C-9DC5-85380F809CA4"
+    },
+    {
+      "class": "text",
+      "id": "80220192-EA2C-448F-B9FE-7EC2027917B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DA87171-E31D-4277-85C2-9AF90598362B"
+    },
+    {
+      "class": "text",
+      "id": "E055D737-FDA0-44A9-A337-18414A9216DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE05BD86-0491-4034-A3CE-CEC367EB02B2"
+    },
+    {
+      "class": "text",
+      "id": "A45A3B6F-9278-4A47-BD48-9F31342E580F"
+    },
+    {
+      "class": "text",
+      "id": "E4C59071-C102-4271-B441-FFF41BE30D2D"
+    }
+  ],
+  "name": "Checkboxes",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C85B5BEA-1EF7-42C6-B8A0-8D78F293FD60",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

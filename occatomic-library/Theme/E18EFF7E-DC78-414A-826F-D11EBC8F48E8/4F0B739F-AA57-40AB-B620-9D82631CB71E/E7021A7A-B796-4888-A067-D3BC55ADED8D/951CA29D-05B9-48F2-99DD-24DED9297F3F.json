@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "951CA29D-05B9-48F2-99DD-24DED9297F3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0EA2E490-DA03-4559-921B-2A2DEE5055B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE386FCE-3BC9-49F3-B1E3-73F9A1946F78",
+    "height": 160,
+    "width": 160,
+    "x": 0,
+    "y": 34
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Image / Grid",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.8333333333333333,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "50B18558-F474-4684-B813-F885EC242D1D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.333333333333332,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "D365DFCC-F601-4B85-B64D-9D2530D78A74",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0214E6F7-F3FB-45DB-8D92-35ED12372F71",
+  "verticalSpacing": 0
+}

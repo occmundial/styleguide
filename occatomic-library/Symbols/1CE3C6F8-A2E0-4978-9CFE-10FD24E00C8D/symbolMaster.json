@@ -1,0 +1,127 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2970722853535354,
+    "green": 0.2970722853535354,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 4485,
+  "clippingMaskMode": 0,
+  "do_objectID": "1CE3C6F8-A2E0-4978-9CFE-10FD24E00C8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C608BF6E-A4AC-4BCE-B867-B814D480DBF9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CA251F9-C08D-4C55-925F-ACEAF444B496",
+    "height": 24,
+    "width": 24,
+    "x": -905,
+    "y": 2427
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "7BEBE77C-9F72-44BA-AB3C-7C0ED5F9CDFF",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 32
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E1C87B7C-04D6-4682-988B-3C87C6B11970",
+    "guides": [
+      22,
+      2
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FC788C28-4E0F-4CEE-BC53-9E7BDBDB92E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "078A90A6-6DA9-4706-9094-174A36A437DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C03F116-044E-459C-A879-BB6852D2E146"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 10,
+    "do_objectID": "A090C0D2-EEAC-44D1-878B-D6C8DA5B571A",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": -8.727272727272727,
+    "guttersOutside": false,
+    "horizontalOffset": 40,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 24
+  },
+  "name": "0: Icons / Cross_pills / Outlined",
+  "nameIsFixed": true,
+  "originalObjectID": "E0399313-3D20-492C-9AC6-E8C8C3E1DEC6",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0CF1C4B0-AC7A-4E86-B87B-3C15791A0109",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B988D090-DD14-41F3-A36A-054031A675C9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "59308ED4-7044-4394-9FD9-05B2B2526C72",
+    "guides": [
+      2,
+      22
+    ]
+  }
+}

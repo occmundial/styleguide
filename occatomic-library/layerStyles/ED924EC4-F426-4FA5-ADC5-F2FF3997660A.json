@@ -1,0 +1,12 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "ED924EC4-F426-4FA5-ADC5-F2FF3997660A",
+  "name": "Others / Disabled input",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
