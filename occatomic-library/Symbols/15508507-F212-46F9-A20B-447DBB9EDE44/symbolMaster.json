@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3336,
+  "changeIdentifier": 3628,
   "clippingMaskMode": 0,
   "do_objectID": "15508507-F212-46F9-A20B-447DBB9EDE44",
   "exportOptions": {
@@ -27,12 +27,12 @@
     "constrainProportions": false,
     "do_objectID": "3EF96543-A1C2-4CA2-B008-87AE08B98020",
     "height": 40,
-    "width": 129,
-    "x": 3325,
+    "width": 97,
+    "x": 3341,
     "y": 418
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

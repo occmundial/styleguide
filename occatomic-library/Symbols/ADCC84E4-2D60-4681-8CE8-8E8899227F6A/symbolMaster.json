@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 0.6173007246376812,
+    "blue": 0.2235294117647059,
+    "green": 0.2235294117647059,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 5939,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADCC84E4-2D60-4681-8CE8-8E8899227F6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63DD359D-4419-40A3-909F-472FF5BDC530",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA4E453A-E033-45E0-8792-BE3DACF24B9A",
+    "height": 24,
+    "width": 24,
+    "x": -1011,
+    "y": 59
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1F6A62F1-EB5A-4859-9E03-86F9FC15C672",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E944F87E-447A-4B03-BA83-94B27CF1C13F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC0B75E2-E7CB-4169-8125-817CEB9C9EA9"
+    }
+  ],
+  "name": "0: Icons / More options V",
+  "nameIsFixed": true,
+  "originalObjectID": "938A0CA3-23BB-4F38-84AD-9EF342E9ABEA",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28165A2C-ADD6-4E6F-92F6-E7EEBF7AC94F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A756B5E1-8E29-40DD-A017-8F041CC1847B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2AB4A5A8-456E-4C9F-9F4B-E64D8235159F",
+    "guides": [
+    ]
+  }
+}
