@@ -36,80 +36,16 @@
       "id": "2456361D-63D8-42A6-9098-4434854BEE92"
     },
     {
-      "class": "rectangle",
-      "id": "2E21ADAD-6F13-400E-BF2C-755CD42A1507"
-    },
-    {
-      "class": "rectangle",
-      "id": "CDFD774B-8B82-4E3C-9974-4127D967BBF8"
-    },
-    {
-      "class": "rectangle",
-      "id": "CEE809A4-83E0-4B23-99AE-55BE8DCA2D9C"
-    },
-    {
-      "class": "rectangle",
-      "id": "D56D0243-23F6-4D0B-AC66-19AECBA68338"
-    },
-    {
-      "class": "rectangle",
-      "id": "12085422-0A9A-497E-8749-2F89BC8AD73D"
-    },
-    {
-      "class": "rectangle",
-      "id": "507CA0CB-ADDD-4CF7-8D24-23B9960D86E7"
-    },
-    {
-      "class": "rectangle",
-      "id": "E4A76DC5-6DB2-4745-A77C-4AB57C047B38"
-    },
-    {
-      "class": "rectangle",
-      "id": "78855FDD-2367-4F7B-81AC-81004993EC8A"
-    },
-    {
-      "class": "rectangle",
-      "id": "CAFD3C0F-E36F-4205-BF2D-D4CD5885A87D"
-    },
-    {
-      "class": "rectangle",
-      "id": "5A47BF9F-1787-4EF4-B391-5E0A254F3301"
-    },
-    {
-      "class": "rectangle",
-      "id": "94C35BFC-DC39-4729-B68D-575D451D026B"
-    },
-    {
-      "class": "rectangle",
-      "id": "5BF3CE02-444F-492B-B121-81400228747E"
+      "class": "group",
+      "id": "7C1085A9-7DDE-4272-A2F8-26DF76D9686B"
     },
     {
       "class": "rectangle",
       "id": "1C8EE23E-09ED-46A6-8A63-2142135AFB83"
     },
     {
-      "class": "rectangle",
-      "id": "2B6E8466-CA71-44ED-A0CD-94F8A4964DF7"
-    },
-    {
-      "class": "rectangle",
-      "id": "6CDB9AEC-28EE-40AA-8DDD-A0886BC6D68C"
-    },
-    {
-      "class": "rectangle",
-      "id": "6CCCB523-941C-421C-BF9A-02B3A9A50828"
-    },
-    {
-      "class": "rectangle",
-      "id": "0E005EAD-3A10-4443-B20A-DB0B9CE88119"
-    },
-    {
-      "class": "rectangle",
-      "id": "0B2917DD-3197-41A0-AAA6-67F5BFE4713A"
-    },
-    {
-      "class": "rectangle",
-      "id": "84DCDB5D-1C92-4ECE-863C-F2405063E2C3"
+      "class": "group",
+      "id": "DAF44F57-E493-40C2-B49F-560E65E8C012"
     },
     {
       "class": "text",

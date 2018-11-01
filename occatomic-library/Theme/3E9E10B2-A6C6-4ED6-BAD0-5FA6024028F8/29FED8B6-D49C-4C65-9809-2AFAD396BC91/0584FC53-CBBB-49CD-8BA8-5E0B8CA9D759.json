@@ -81,9 +81,15 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "2969A35E-9482-4B3C-AEE4-9342DF6B0B0C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.2033110119047619
+    },
     "do_objectID": "0B82E810-7F42-408C-B7E0-B70028A5D3A6",
     "endMarkerType": 0,
     "fills": [
@@ -92,15 +98,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6797784550906063,
-          "green": 0.8345025510204082,
-          "red": 0.7710152181796471
+          "blue": 0.3607843137254901,
+          "green": 0.1764705882352941,
+          "red": 0.4196078431372549
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 1,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],
