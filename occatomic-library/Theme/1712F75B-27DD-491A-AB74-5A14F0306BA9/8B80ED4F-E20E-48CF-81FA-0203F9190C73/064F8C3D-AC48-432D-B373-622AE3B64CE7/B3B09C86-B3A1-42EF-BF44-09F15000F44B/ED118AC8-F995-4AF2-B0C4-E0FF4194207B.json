@@ -19,10 +19,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "71EEA429-A041-4624-ABEF-F5ED03950225",
-    "height": 120,
+    "height": 75,
     "width": 63,
     "x": 0,
-    "y": 26
+    "y": 16.25
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,

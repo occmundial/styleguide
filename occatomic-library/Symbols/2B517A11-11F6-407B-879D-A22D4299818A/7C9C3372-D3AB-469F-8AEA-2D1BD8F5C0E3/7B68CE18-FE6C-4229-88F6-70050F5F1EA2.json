@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6823529411764706,
-            "green": 0.235294117647059,
-            "red": 0.03137254901960781
+            "blue": 0.796078431372549,
+            "green": 0.2745098039215691,
+            "red": 0.03529411764705878
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,8 +26,9 @@
             "alignment": 0,
             "baseWritingDirection": 0,
             "headerLevel": 1,
-            "maximumLineHeight": 40,
-            "minimumLineHeight": 40
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
+            "paragraphSpacing": 12
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
@@ -57,12 +58,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "04E93BD6-D309-48E7-8499-ECC74EB65D15",
-    "height": 40,
+    "height": 24,
     "width": 214,
     "x": 16,
-    "y": 0
+    "y": 8
   },
-  "glyphBounds": "{{0, 14}, {93, 12}}",
+  "glyphBounds": "{{0, 6}, {93, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -77,7 +78,7 @@
   "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "0D87CF05-94FD-47B2-B836-C8FD3D9E704C",
+  "sharedStyleID": "B8DB4665-100D-4B3F-9334-AD766DD5385D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -87,14 +88,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "CBC71BA0-389D-4E11-B3AC-6E34FAB9D89D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6823529411764706,
-          "green": 0.235294117647059,
-          "red": 0.03137254901960781
+          "blue": 0.796078431372549,
+          "green": 0.2745098039215691,
+          "red": 0.03529411764705878
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -109,8 +109,9 @@
           "alignment": 0,
           "baseWritingDirection": 0,
           "headerLevel": 1,
-          "maximumLineHeight": 40,
-          "minimumLineHeight": 40
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
+          "paragraphSpacing": 12
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0

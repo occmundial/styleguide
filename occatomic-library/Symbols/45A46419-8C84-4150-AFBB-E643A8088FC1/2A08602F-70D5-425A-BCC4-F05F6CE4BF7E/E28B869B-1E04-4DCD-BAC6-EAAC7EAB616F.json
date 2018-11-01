@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1333333333333333,
-            "green": 0.1333333333333333,
-            "red": 0.1333333333333333
+            "blue": 0.796078431372549,
+            "green": 0.2745098039215691,
+            "red": 0.03529411764705878
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,8 +26,9 @@
             "alignment": 0,
             "baseWritingDirection": 0,
             "headerLevel": 1,
-            "maximumLineHeight": 40,
-            "minimumLineHeight": 40
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
+            "paragraphSpacing": 12
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
@@ -57,12 +58,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FDA94DCC-727C-422B-A61D-7A0B3780E839",
-    "height": 40,
+    "height": 24,
     "width": 198,
     "x": 72,
-    "y": 0
+    "y": 8
   },
-  "glyphBounds": "{{0, 14}, {93, 12}}",
+  "glyphBounds": "{{0, 6}, {93, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -87,14 +88,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "73CA4F52-ED7C-44E7-B58F-EAB89FB9B5DB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1333333333333333,
-          "green": 0.1333333333333333,
-          "red": 0.1333333333333333
+          "blue": 0.796078431372549,
+          "green": 0.2745098039215691,
+          "red": 0.03529411764705878
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -109,8 +109,9 @@
           "alignment": 0,
           "baseWritingDirection": 0,
           "headerLevel": 1,
-          "maximumLineHeight": 40,
-          "minimumLineHeight": 40
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
+          "paragraphSpacing": 12
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0

@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "9026F5FE-002D-4D35-95A6-5FF54B35F665",
-  "name": "Body 1 / Primary / Right",
+  "name": "Body 1 / Primary / Center",
   "value": {
     "_class": "style",
     "endMarkerType": 0,
@@ -13,9 +13,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6823529411764706,
-          "green": 0.235294117647059,
-          "red": 0.03137254901960781
+          "blue": 0.796078431372549,
+          "green": 0.2745098039215691,
+          "red": 0.03529411764705878
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

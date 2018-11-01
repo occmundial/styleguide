@@ -35,7 +35,7 @@
         "location": 0
       }
     ],
-    "string": "Small Caption"
+    "string": "Small caption"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -61,7 +61,7 @@
     "x": 0,
     "y": 48
   },
-  "glyphBounds": "{{0, 3}, {77, 13}}",
+  "glyphBounds": "{{0, 3}, {75, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +70,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Small Caption",
+  "name": "Small caption",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
